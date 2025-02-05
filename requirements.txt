@@ -6,4 +6,3 @@ google-auth<3,>=2
 runloop_api_client==0.22.0
 python-dotenv==1.0.1
 
-/Users/ivanpedroza/Downloads/runlooptest/computer-use/computer/requirements.txt
